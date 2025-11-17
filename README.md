@@ -35,7 +35,6 @@
       <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" alt="Tailwind CSS" /></a>
       <a href="https://webpack.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" height="50" alt="Webpack" /></a>
       <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" alt="Node.js" /></a>
-      <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" alt="Python" /></a>
     </p>
   </div>
 
@@ -43,15 +42,15 @@
   <div style="flex: 1; min-width: 250px; max-width: 350px;">
     <h3 align="center">Backend</h3>
     <p align="center">
-      <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" alt="Python" /></a>
-      <a href="https://rubyonrails.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" height="50" alt="Ruby on Rails" /></a>
-      <a href="https://pytorch.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" height="50" alt="PyTorch" /></a>
       <a href="https://www.cprogramming.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" alt="C" /></a>
+      <a href="https://pytorch.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" height="50" alt="PyTorch" /></a>
+      <a href="https://opencv.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="50" alt="OpenCV" /></a>
+      <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" alt="Python" /></a>
+      <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/flask.png" height="50" alt="Flask" /></a>
+      <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" height="50" alt="Ruby" /></a>
+      <a href="https://rubyonrails.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" height="50" alt="Ruby on Rails" /></a>
       <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" alt="MySQL" /></a>
       <a href="https://redis.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" height="50" alt="Redis" /></a>
-      <a href="https://opencv.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="50" alt="OpenCV" /></a>
-      <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" height="50" alt="Ruby" /></a>
-      <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/flask.png" height="50" alt="Flask" /></a>
       <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50" alt="PostgreSQL" /></a>
     </p>
   </div>
@@ -60,12 +59,12 @@
   <div style="flex: 1; min-width: 250px; max-width: 350px;">
     <h3 align="center">DevOps</h3>
     <p align="center">
-      <a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="50" alt="AWS" /></a>
       <a href="https://cloud.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" height="50" alt="GCP" /></a>
+      <a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="50" alt="AWS" /></a>
       <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" alt="Linux" /></a>
       <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git" /></a>
-      <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50" alt="Bash" /></a>
       <a href="https://about.gitlab.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" height="50" alt="GitLab" /></a>
+      <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50" alt="Bash" /></a>
     </p>
   </div>
 
