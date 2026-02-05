@@ -70,13 +70,14 @@
 
 </div>
 
+<!--
 ### About My Github
 
 <div align="left">
   <img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holidayrabbit&layout=compact&langs_count=8" align="center" />
   <img height='180' src="https://github-readme-stats.vercel.app/api?username=Holidayrabbit&show_icons=true" align="center" />
 </div> 
-
+-->
 
 <!--
 **Holidayrabbit/Holidayrabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
