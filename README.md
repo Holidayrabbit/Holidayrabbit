@@ -3,9 +3,6 @@
   <!-- 打字效果 -->
   <a href="https://github.com/junkaione"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=330&lines=console.log(%22Hello+World!%22);I'm+ZQ%2C+Think+and+do+hard!" alt="Typing SVG" /></a>
 
-  <!-- 敲代码图片 -->
-  <a href="https://sm.ms/image/n2wPkGMSgY7eKE3" target="_blank"><img src="https://s2.loli.net/2024/05/16/n2wPkGMSgY7eKE3.png" width="400" ></a>
-
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://holidayrabbit.github.io/MyBlog/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
@@ -16,7 +13,9 @@
 
 ### About me
 
-😃 嗨，你好，我是ZhaoQie，LLM & SWE 学习者～ 
+Hi, I'm a researcher and engineer interested in SWE Agent & LLM. Currently, I'm learning how to act as an **Agent Orchestrator**. In my spare time I enjoy cycling🚴, photography📷 & surfing the web🏄...
+
+Feel free to reach out! [📧 mail to me](mailto:zhaoqie888@icloud.com)
 
 ### My Skill Set  
 
